@@ -1,0 +1,12 @@
+.card .media:not(:last-child) {
+    margin-bottom: .5rem;
+  };
+
+.card-content {
+    background-color: transparent;
+    padding: 1rem;
+}
+@media screen and (min-width: 1216px){
+.container:not(.is-max-desktop) {
+    max-width: inherit;
+}};

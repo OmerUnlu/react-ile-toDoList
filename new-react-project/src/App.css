@@ -1,0 +1,101 @@
+.container{
+    border: 1px solid greenyellow;
+    border-radius: 3px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+.container-true{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+label{
+    width: 98%;
+    margin: 5px;
+    height: 25px;
+}
+textarea{
+    border: thin solid black;
+    border-radius: 4px;
+}
+input{
+    border: thin solid black;
+    border-radius: 5px;
+    margin: 5px;
+    width: 98%;
+    height: 30px;
+}
+.mainButton{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    padding: 8px 6px;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 700;
+}
+.mainButton-true{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    padding: 8px 6px;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 700;
+}
+h3{
+    font-weight: 700;
+
+}
+.sarmal{
+    border: thin green solid;
+    padding: 20px;
+    /* text-align: center; */
+    width: 350px;
+    min-height: 200px;
+    border-radius: 25px;
+    margin: 30px;
+}
+.sarmal > div{
+    justify-content: space-evenly;
+    display: flex;
+}
+.sarmal > div > button {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    border: thin green solid;
+}
+.genelContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#first:hover{
+    background-color: red;
+    color: aliceblue;
+    font-size: 17px;
+    padding: 11px 22px;
+}
+#second:hover{
+    background-color: green;
+    color: aliceblue;
+    font-size: 17px;
+    padding: 11px 22px;
+}
+#neww{
+    text-align: center; 
+    font-size: 35px;
+    font-weight : bold;
+}

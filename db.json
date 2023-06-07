@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "fenerbahçe",
+      "text": "1907 1907 1907",
+      "id": 1
+    },
+    {
+      "title": "1231231231231",
+      "text": "cddddddddddddddddddddddddddddddd",
+      "id": 3
+    },
+    {
+      "title": "adsasdasdasdasdasdasd",
+      "text": "asdasdasdasdasd",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
